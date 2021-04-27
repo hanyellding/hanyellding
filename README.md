@@ -1,6 +1,6 @@
 
 
-### 👋Hello! Welcome to my GitHub.  
+### 👋Hello! Welcome to My GitHub
 <div align="center">
 </div>  
   
