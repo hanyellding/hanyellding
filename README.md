@@ -76,13 +76,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanyellding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Recent Blog Posts  
-
-
-### I'm currently developing a blog.  
-<!-- BLOG-POST-LIST:START -->  
-<!-- BLOG-POST-LIST:END -->  
-
 <br/>  
 
   
